@@ -1,6 +1,11 @@
 # Jason Environments
 
-A collection of Jason environments modified to achieve specific design objectives
+A collection of Jason environments modified to achieve specific design objectives.
+
+Compatible with [Jason version 2.4](https://github.com/jason-lang/jason/releases) and above
+
+
+
 
 - Step Synched Environment
 
