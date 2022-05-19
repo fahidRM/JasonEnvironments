@@ -2,22 +2,13 @@
 
 A collection of Jason environments modified to achieve specific design objectives.
 
-Compatible with [Jason version 2.4](https://github.com/jason-lang/jason/releases) and above
-
-
-
-
-- Step Synched Environment
-
-
-
-
+Compatible with [Jason version 2.4](https://github.com/jason-lang/jason/releases) and above.
 
 
 
 
 #### Step Synched Environment
-Design Objectives
+Design Objectives:
   - Enable an action to be split into multiple actions and 
 
 The step sysnched environment was created to achieve the above mentioned design objectives. 
